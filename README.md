@@ -1,1 +1,1 @@
-play the game
+run the code and play the game
